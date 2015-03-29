@@ -16,3 +16,12 @@ h1 {
 .col-md-12 {
   margin: 50px;
 }
+
+.FAQ-p {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+li {
+  list-style-type: none;
+}
